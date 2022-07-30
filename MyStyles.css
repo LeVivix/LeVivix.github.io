@@ -1,0 +1,33 @@
+h1, form{ 
+    text-align: center;
+    color: wheat; 
+}
+nav{ 
+    text-align: right;
+    font-size: larger;
+}
+a {
+    color:rgb(255, 156, 126);
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+}
+body {
+    background-color: rgb(98, 150, 165);
+}
+
+#img {
+    width: 0px;
+    visibility: hidden;
+}
+
+#advgrid{
+    padding: 20px;
+    text-align: left;
+    row-gap: 10px;
+}
+#SearchSubmit{
+    background-color: rgb(32, 104, 185);
+    color: white; 
+}
